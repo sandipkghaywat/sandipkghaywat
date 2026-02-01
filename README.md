@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Sandip Ghaywat 👋
 
-<!--
-**sandipkghaywat/sandipkghaywat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Database Specialist & PL/SQL Expert
+I specialize in building high-performance database solutions, focusing on complex business logic and performance optimization.
 
-Here are some ideas to get you started:
+- 🔭 **Expertise:** PL/SQL Stored Procedures, Functions, Packages, & Triggers.
+- ⚡ **Performance:** Experienced in Job Schedulers and Query Optimization.
+- 📍 **Based in:** Mumbai, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Databases:** Oracle, SQL Server
+- **Languages:** SQL, PL/SQL, HTML/CSS
+- **Tools:** [Add tools you use, e.g., TOAD, SQL Developer, Git]
+
+### 📈 Featured Work
+- [Project Name 1](link) - Brief description of a complex problem you solved.
+- [Project Name 2](link) - Another highlight.

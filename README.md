@@ -1,8 +1,12 @@
-# Hi there 👋, I'm Sandip Ghaywat
-
-**Database Specialist | PL/SQL Developer | Problem Solver**  
-
-I build efficient, high-performance database solutions with PL/SQL, SQL, and automation tools. Passionate about clean code, optimizing workflows, and solving real-world data challenges.  
+<!-- Hero Section -->
+<h1 align="center">Hi 👋, I'm Sandip Ghaywat</h1>
+<h3 align="center">Database Specialist | PL/SQL Developer | Problem Solver</h3>
+<p align="center">
+  <img src="https://via.placeholder.com/800x200?text=Database+Solutions+|+Automation+|+Optimization" alt="Hero Image"/>
+</p>
+<p align="center">
+  I build efficient, high-performance database solutions and automation tools. Passionate about clean code, optimizing workflows, and solving real-world data challenges.
+</p>
 
 ---
 
@@ -22,36 +26,44 @@ I build efficient, high-performance database solutions with PL/SQL, SQL, and aut
 ## 📂 Featured Projects
 
 ### 1. **Inventory Management System**
+<p align="center">
+  <img src="https://via.placeholder.com/600x300?text=Inventory+System+Screenshot" alt="Inventory Screenshot"/>
+</p>
 - Automated inventory tracking with PL/SQL procedures and triggers.
 - Optimized queries for 30% faster performance.
 - [View Project →](#)
 
 ### 2. **Employee Payroll Automation**
+<p align="center">
+  <img src="https://via.placeholder.com/600x300?text=Payroll+Automation+GIF" alt="Payroll Demo"/>
+</p>
 - Automated payroll calculations using PL/SQL packages and job schedulers.
 - Reduced manual errors and improved reporting speed.
 - [View Project →](#)
 
 ### 3. **Customer Data Analysis Tool**
+<p align="center">
+  <img src="https://via.placeholder.com/600x300?text=Customer+Data+Analysis+Screenshot" alt="Data Analysis Demo"/>
+</p>
 - SQL scripts and stored procedures for recurring reporting tasks.
 - Generated actionable insights from customer data.
 - [View Project →](#)
 
-> 🔗 Replace `#` with your project repository links once uploaded.
+> 🔗 Replace placeholder images with your real screenshots/GIFs and `#` with your project repository links.
 
 ---
 
 ## 📈 GitHub Stats
 
-![Sandip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandipkghaywat&show_icons=true&hide_border=true&count_private=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sandipkghaywat&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="GitHub Stats"/>
+</p>
 
 ---
 
 ## 📫 Connect with Me
 
-[![LinkedIn](www.linkedin.com/in/sandip-ghaywat)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YourTwitterURL)  
-
----
-
-*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+<p align="center">
+  <a href="YourLinkedInURL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="YourTwitterURL"><img src="http

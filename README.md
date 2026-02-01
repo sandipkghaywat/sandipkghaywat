@@ -64,6 +64,10 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="YourLinkedInURL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="YourTwitterURL"><img src="http
+  <a href="https://www.linkedin.com/in/sandip-ghaywat/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sandipkghaywat@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*

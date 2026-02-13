@@ -1,55 +1,100 @@
 <!-- Hero Section -->
 <h1 align="center">Hi 👋, I'm Sandip Ghaywat</h1>
-<h3 align="center">Database Specialist | PL/SQL Developer | Problem Solver</h3>
+<h3 align="center">Senior Oracle PL/SQL Developer | Database Performance Specialist | Problem Solver</h3>
+
 <p align="center">
-  <img src="https://via.placeholder.com/800x200?text=Database+Solutions+|+Automation+|+Optimization" alt="Hero Image"/>
+  I design, develop, and optimize high-performance database solutions for enterprise systems.
+  Passionate about writing efficient SQL, automating processes, and solving complex data challenges.
 </p>
+
 <p align="center">
-  I build efficient, high-performance database solutions and automation tools. Passionate about clean code, optimizing workflows, and solving real-world data challenges.
+  🌐 Visit My Technical Blog: https://sandipkghaywat.github.io
 </p>
 
 ---
 
-## 🛠 Skills & Technologies
+## 👨‍💼 Professional Summary
 
+Senior Oracle PL/SQL Developer with **8.9 years of experience** in designing, developing, and optimizing enterprise-grade database solutions.
+
+✔ Expertise in complex SQL & PL/SQL development  
+✔ Strong experience in performance tuning & query optimization  
+✔ Hands-on experience with high-volume transactional systems  
+✔ Production support & release management experience  
+✔ Strong understanding of SDLC and database architecture  
+
+---
+
+## 🛠 Core Expertise
+
+### 🔹 Database Development
+- Advanced SQL & PL/SQL (Procedures, Functions, Packages, Triggers)
+- Complex Joins, Analytical Functions, Subqueries
+- Data Modeling & Schema Design
+- Exception Handling & Logging Frameworks
+
+### 🔹 Performance Tuning
+- Query Optimization using Explain Plan
+- Indexing Strategy (B-Tree, Composite Indexes)
+- AWR & Execution Plan Analysis
+- Partitioning & Large Table Handling
+- Reducing execution time for batch processes
+
+### 🔹 Bulk & Batch Processing
+- BULK COLLECT & FORALL
+- Scheduler Jobs & Batch Automation
+- High-volume Data Processing (Million+ Records)
+
+### 🔹 Tools & Technologies
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL--SQL-003B57?style=for-the-badge)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL--SQL-003B57?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📂 Featured Projects
+## 📂 Enterprise-Level Work Highlights
 
-### 1. **Inventory Management System**
-<p align="center">
-  <img src="https://via.placeholder.com/600x300?text=Inventory+System+Screenshot" alt="Inventory Screenshot"/>
-</p>
-- Automated inventory tracking with PL/SQL procedures and triggers.
-- Optimized queries for 30% faster performance.
-- [View Project →](#)
+### 🏦 High-Volume Transaction Processing Optimization
+- Optimized PL/SQL procedures handling **10M+ records**
+- Reduced execution time by **60%** using indexing and query restructuring
+- Implemented bulk processing using BULK COLLECT & FORALL
+- Improved system throughput and reduced DB load
 
-### 2. **Employee Payroll Automation**
-<p align="center">
-  <img src="https://via.placeholder.com/600x300?text=Payroll+Automation+GIF" alt="Payroll Demo"/>
-</p>
-- Automated payroll calculations using PL/SQL packages and job schedulers.
-- Reduced manual errors and improved reporting speed.
-- [View Project →](#)
+### 📊 Automated Payroll & Financial Processing
+- Designed PL/SQL packages for payroll calculations
+- Implemented validation & exception handling framework
+- Automated monthly batch jobs using DB Scheduler
+- Reduced manual effort and improved reporting accuracy
 
-### 3. **Customer Data Analysis Tool**
-<p align="center">
-  <img src="https://via.placeholder.com/600x300?text=Customer+Data+Analysis+Screenshot" alt="Data Analysis Demo"/>
-</p>
-- SQL scripts and stored procedures for recurring reporting tasks.
-- Generated actionable insights from customer data.
-- [View Project →](#)
+### 📈 Reporting & Data Analysis Automation
+- Developed reusable SQL scripts for recurring reports
+- Optimized analytical queries for faster execution
+- Designed stored procedures for real-time reporting
+- Improved report generation speed by 40%
 
-> 🔗 Replace placeholder images with your real screenshots/GIFs and `#` with your project repository links.
+---
+
+## 🚀 What I Bring to Your Team
+
+- Write highly optimized SQL queries
+- Reduce database execution time & server load
+- Automate repetitive manual processes
+- Design scalable and maintainable PL/SQL architecture
+- Quickly troubleshoot and resolve production issues
+- Ensure data integrity and system stability
+
+---
+
+## 📚 Technical Writing & Knowledge Sharing
+
+I actively document my learning and real-world implementations.
+
+👉 Explore tutorials, SQL concepts, PL/SQL examples, and performance tuning techniques on my blog:
+
+🌐 https://sandipkghaywat.github.io
 
 ---
 
@@ -61,13 +106,19 @@
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sandip-ghaywat/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sandipkghaywat@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sandip-ghaywat/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sandipkghaywat@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
+</p>
